@@ -1,5 +1,6 @@
 HotelApp
 ========
+[![Build Status](https://travis-ci.com/trickpa-10/HotelApp.svg?branch=master)](https://travis-ci.com/trickpa-10/HotelApp)
 
 # Information
 Source code of the Java example available at http://www.javaworld.com/article/2072203/build-ci-sdlc/an-introduction-to-maven-2.html .
